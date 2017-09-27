@@ -25,3 +25,6 @@ Friend invitation: You can send a invitation to your friend who is also connecte
 Game History: By "h__peer__" command, you can easily find all game results between you and __peer__. Game result against computers are also available!
 
 
+
+
+simple_game.py is the first test version of this project. It shows the initial idea and the basic structure of this game's physics engine.
