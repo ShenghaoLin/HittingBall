@@ -1,4 +1,4 @@
-# HittingBall (Or my naive first game)
+# HittingBall (or my naive first game)
 
 Final project from Intro to Computer Science in Fall 2015, NYU Shanghai. Prof. Zhen Zhang provides the server and client programs.
 
@@ -22,6 +22,6 @@ Other Features:
 
 Friend invitation: You can send a invitation to your friend who is also connected to chat_server and your friend will choose to accept or refuse the request.
 
-Game History: By "h __peer__" command, you can easily find all game results between you and __peer__. Game result against computers are also available!
+Game History: By "h__peer__" command, you can easily find all game results between you and __peer__. Game result against computers are also available!
 
 
